@@ -1,0 +1,15 @@
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ScannerClientUtility.deps.json
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ScannerClientUtility.runtimeconfig.json
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ScannerClientUtility.runtimeconfig.dev.json
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ScannerClientUtility.dll
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ref/ScannerClientUtility.dll
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/bin/Debug/net5.0/ScannerClientUtility.pdb
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.csproj.AssemblyReference.cache
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.AssemblyInfoInputs.cache
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.AssemblyInfo.cs
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.csproj.CoreCompileInputs.cache
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.dll
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ref/ScannerClientUtility.dll
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.pdb
+/Users/chuch/Documents/SHARP/ScannerClientServer/ScannerClientUtility/obj/Debug/net5.0/ScannerClientUtility.genruntimeconfig.cache

